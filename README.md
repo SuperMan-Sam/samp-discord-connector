@@ -29,7 +29,10 @@ Q: *I'm not on Windows 10 and the plugin still fails to load after installing al
 A: Download the [universal Windows CRT](https://www.microsoft.com/en-US/download/details.aspx?id=48234). Requirements for this:
  - Windows 8.1 and Windows Server 2012 R2: [KB2919355](https://support.microsoft.com/en-us/kb/2919355)  
  - Windows 7 and Windows Server 2008 R2: [Service Pack 1](https://support.microsoft.com/en-us/kb/976932)  
- - Windows Vista and Windows Server 2008: [Service Pack 2](https://support.microsoft.com/en-us/kb/948465)  
+ - Windows Vista and Windows Server 2008: [Service Pack 2](https://support.microsoft.com/en-us/kb/948465)  
+ 
+Q: *Why do I use languages other than English The plug-in does not recognize them, return information as "can not send empty information"?
+A: ???
 
 Build instruction
 ---------------
